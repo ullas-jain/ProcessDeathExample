@@ -55,7 +55,7 @@ class MainActivityViewModel @Inject constructor(
 ## Simulating process death
 Option 1: Run your app and enter your data in text fields. Minimise the app and click on `Terminate Application` in Android studio's `Logcat`.
 
-<p style="text-align:center;"> <img src="/assets/system_process_death.png" alt="drawing" width="1000" height="800" /></p>
+<p style="text-align:center;"> <img src="/assets/system_process_death.png" alt="drawing" width="1000" height="600" /></p>
 
 Option 2: Manually set the "Background process limit"(in developer options) as "No background processes"
 
